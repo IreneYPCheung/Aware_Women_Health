@@ -1,6 +1,6 @@
 ## Hackathon (Theme: Women Health Care)
-### Title: Study on Women’s Mental Health
-in Workspace
+### Title: Study on Women’s Mental Health in Workspace
+![](https://github.com/IreneYPCheung/Aware_Women_Health/blob/master/Mental_Health.png)
 ### Motivation
 Today we are more likely talk about mental health issues. But we rarely discuss how mental problems like depression and anxiety affect their work.
 ### Objective
